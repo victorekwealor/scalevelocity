@@ -1,0 +1,232 @@
+{
+  "hero": {
+    "logoSrc": "/dark-logo-lg.svg",
+    "tagline": "East Africa | 4 Weeks | 12 Startups",
+    "cohortLabel": "Cohort N",
+    "cohortNumber": "01",
+    "collaboration": "A Collaborative Program between Clarus and Norrsken",
+    "summary": "12 startups. 4 weeks.",
+    "ctaButton": "Apply Now"
+  },
+
+  "objective": {
+    "headline": "The Moat Is No Longer Product",
+    "subtitle": "This is a 4-week execution sprint for East Africa-focused startups that already have traction and want sharper, faster, smarter GTM.",
+    "velocityIntro": "In an AI-native world, product advantage erodes fast, what compounds now is velocity:",
+    "velocityItems": [
+      "Speed of shipping",
+      "Clarity of positioning",
+      "Strength of signal",
+      "Precision of distribution",
+      "Discipline in experimentation"
+    ]
+  },
+
+  "lessons": {
+    "sectionTitle": "Program Structure (4 Weeks)",
+    "weeks": [
+      {
+        "week": "Week 1",
+        "title": "Positioning and ICP Clarity",
+        "subtitle": "Sharpen your customer definition and remove narrative confusion.",
+        "expectations": ["ICP dossier", "Positioning framework", "Updated GTM baseline"],
+        "defaultOpen": true
+      },
+      {
+        "week": "Week 2",
+        "title": "AI-Native Shipping",
+        "subtitle": "Build and operate faster using AI tools.",
+        "expectations": ["AI tool stack audit", "Shipping cadence tracker", "Automation workflows"],
+        "defaultOpen": false
+      },
+      {
+        "week": "Week 3",
+        "title": "Storytelling and Signal",
+        "subtitle": "Increase authority and narrative clarity.",
+        "expectations": ["Brand narrative doc", "Content calendar", "Authority metrics"],
+        "defaultOpen": false
+      },
+      {
+        "week": "Week 4",
+        "title": "Distribution and Revenue Systems",
+        "subtitle": "Design and launch a measurable GTM experiment.",
+        "expectations": ["GTM experiment design", "Revenue tracking dashboard", "Distribution playbook"],
+        "defaultOpen": false
+      }
+    ]
+  },
+
+  "partners": {
+    "sectionTitle": "Partners",
+    "logos": [
+      { "src": "/dochase.png", "alt": "Dochase", "width": 197, "height": 39 },
+      { "src": "/wimbart.png", "alt": "Wimbart", "width": 222, "height": 39 },
+      { "src": "/clarus.png",  "alt": "Clarus",  "width": 170, "height": 39 }
+    ]
+  },
+
+  "programDetails": {
+    "sectionTitle": "Program Details",
+    "items": [
+      {
+        "label": "Who This Is For",
+        "title": "Positioning and ICP Clarity",
+        "subtitle": "Sharpen your customer definition and remove narrative confusion.",
+        "rows": [
+          {
+            "label": "You should apply if:",
+            "items": [
+              "You have real traction (revenue, active users, pilots, meaningful pipeline)",
+              "Your product exists and works",
+              "You feel your GTM is messy, unclear, or slow",
+              "You are ready to commit 5–7 hours per week",
+              "You want to launch a real GTM experiment in 30 days"
+            ]
+          },
+          {
+            "label": "Do not apply if:",
+            "items": [
+              "You are still validating an idea",
+              "You are casually exploring",
+              "You cannot commit live attendance"
+            ]
+          }
+        ],
+        "defaultOpen": true
+      },
+      {
+        "label": "What You'll Walk Away With",
+        "title": "By the end of 4 weeks,",
+        "subtitle": "Closed-door Activation Showcase to invited investors and operators.",
+        "rows": [
+          {
+            "label": "Deliverables:",
+            "items": [
+              "A validated GTM experiment with real data",
+              "Positioning and messaging framework",
+              "Distribution playbook ready to execute",
+              "Revenue tracking dashboard"
+            ]
+          }
+        ],
+        "defaultOpen": false
+      },
+      {
+        "label": "Commitment & Format",
+        "title": "Mode of the program",
+        "subtitle": "Serious founders only.",
+        "rows": [
+          {
+            "label": "Structure:",
+            "items": [
+              "4 weeks, live cohort format",
+              "5–7 hours per week commitment",
+              "Weekly live sessions (mandatory attendance)",
+              "Async work between sessions"
+            ]
+          }
+        ],
+        "defaultOpen": false
+      },
+      {
+        "label": "Selection Criteria",
+        "title": "12 startups will be selected.",
+        "subtitle": "We prioritise:",
+        "rows": [
+          {
+            "label": "We look for:",
+            "items": [
+              "B2B SaaS or tech-enabled services",
+              "Post-revenue or active pilots",
+              "Founding team commitment to execution",
+              "GTM as a real bottleneck"
+            ]
+          }
+        ],
+        "defaultOpen": false
+      },
+      {
+        "label": "Timeline",
+        "title": "Program dates",
+        "subtitle": "See dates and times scheduled",
+        "rows": [
+          {
+            "label": "Schedule",
+            "items": [
+              "Application opens — March 2026",
+              "Application closes — 7–10 days after opening",
+              "Activation Showcase — Early May",
+              "Cohort Begins — April 2026"
+            ]
+          }
+        ],
+        "defaultOpen": false
+      }
+    ]
+  },
+
+  "timeline": {
+    "heading": "Cohort Begins",
+    "date": "April 2026"
+  },
+
+  "cta": {
+    "heading": "Apply Now",
+    "subheading": "Applications are open for a limited time.",
+    "body": "If your GTM feels unclear, slow, or noisy and you're ready to fix it, apply.",
+    "ctaButton": "Apply Now"
+  },
+
+  "faq": {
+    "sectionTitle": "FAQ",
+    "items": [
+      {
+        "question": "Is this only for Norrsken portfolio companies?",
+        "answer": "No. It is open to East Africa-focused startups with traction.",
+        "defaultOpen": true
+      },
+      {
+        "question": "Is there funding attached?",
+        "answer": "No direct funding. This is a GTM execution program, not an investment vehicle.",
+        "defaultOpen": false
+      },
+      {
+        "question": "Is this free?",
+        "answer": "There is a participation fee. Details will be shared upon application review.",
+        "defaultOpen": false
+      },
+      {
+        "question": "Is this intense?",
+        "answer": "It's focused, not exhausting. Expect 4–6 hours per week of structured sprints and reviews.",
+        "defaultOpen": false
+      },
+      {
+        "question": "Is this a grant or funding program?",
+        "answer": "No. Scale Velocity Lab is an execution-focused GTM acceleration program.",
+        "defaultOpen": false
+      },
+      {
+        "question": "Is this a traditional accelerator?",
+        "answer": "No. There's no equity taken, no cohort house, and no pitch day pressure.",
+        "defaultOpen": false
+      },
+      {
+        "question": "Is this a pitch competition or networking event?",
+        "answer": "Neither. It's a structured execution sprint focused on real GTM progress.",
+        "defaultOpen": false
+      }
+    ]
+  },
+
+  "footer": {
+    "logoSrc": "/dark-logo-lg.svg",
+    "logoAlt": "Scale Velocity Lab",
+    "ctaButton": "Apply Now",
+    "copyright": "© 2026 Scale Velocity Lab. All rights reserved.",
+    "socialLinks": [
+      { "label": "linkedin",   "href": "#" },
+      { "label": "instagram",  "href": "#" },
+      { "label": "x (twitter)", "href": "#" }
+    ]
+  }
+}
