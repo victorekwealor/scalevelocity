@@ -44,7 +44,10 @@ export default function CTA() {
           <p className="cta-body">{cta.body}</p>
 
           <div className="cta-button-wrapper">
-            <motion.button
+            <motion.a
+              href="https://docs.google.com/forms/d/e/1FAIpQLSc1e3lm_LBy53y8S-PCz35o3fN53aAVMXHQ3BvdoP3JVUVyMw/viewform?usp=sharing&ouid=105223740173066561293"
+              target="_blank"
+              rel="noopener noreferrer"
               className="cta-btn"
               whileHover={{ scale: 1.03 }}
               whileTap={{ scale: 0.97 }}
@@ -52,7 +55,7 @@ export default function CTA() {
             >
               <span className="cta-btn-text">{cta.ctaButton}</span>
               <ArrowRight />
-            </motion.button>
+            </motion.a>
           </div>
         </motion.div>
 

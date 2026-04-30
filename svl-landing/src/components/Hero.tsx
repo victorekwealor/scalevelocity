@@ -57,7 +57,10 @@ export default function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, ease: [0.4, 0, 0.2, 1], delay: 0.15 }}
         >
-          <motion.button
+          <motion.a
+            href="https://docs.google.com/forms/d/e/1FAIpQLSc1e3lm_LBy53y8S-PCz35o3fN53aAVMXHQ3BvdoP3JVUVyMw/viewform?usp=sharing&ouid=105223740173066561293"
+            target="_blank"
+            rel="noopener noreferrer"
             className="hero-apply-btn"
             whileHover={{ scale: 1.03 }}
             whileTap={{ scale: 0.97 }}
@@ -65,7 +68,7 @@ export default function Hero() {
           >
             <span className="hero-apply-btn-text">{hero.ctaButton}</span>
             <ArrowRight />
-          </motion.button>
+          </motion.a>
         </motion.div>
 
         {/* ── Bottom: description text + pattern ────────── */}

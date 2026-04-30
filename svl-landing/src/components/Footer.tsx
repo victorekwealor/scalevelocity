@@ -34,7 +34,10 @@ export default function Footer() {
 
       {/* ── Apply Now button ── */}
       <div className="footer-cta-row">
-        <motion.button
+        <motion.a
+          href="https://docs.google.com/forms/d/e/1FAIpQLSc1e3lm_LBy53y8S-PCz35o3fN53aAVMXHQ3BvdoP3JVUVyMw/viewform?usp=sharing&ouid=105223740173066561293"
+          target="_blank"
+          rel="noopener noreferrer"
           className="footer-cta-btn"
           whileHover={{ scale: 1.03 }}
           whileTap={{ scale: 0.97 }}
@@ -42,7 +45,7 @@ export default function Footer() {
         >
           <span className="footer-cta-btn-text">{footer.ctaButton}</span>
           <ArrowRight />
-        </motion.button>
+        </motion.a>
       </div>
 
       {/* ── Copyright + social links ── */}
