@@ -52,11 +52,10 @@ function FaqItem({
 }
 
 export default function FAQ() {
-  const defaultIndex = FAQS.findIndex((f) => f.defaultOpen);
-  const [openIndex, setOpenIndex] = useState(defaultIndex);
+  const [openIndex, setOpenIndex] = useState(-1);
 
   return (
-    <section className="faq-section">
+    <section id="faq" className="faq-section">
       <div className="faq-container">
         <motion.p
           className="faq-title"

@@ -4,7 +4,7 @@ const { timeline } = content;
 
 export default function Timeline() {
   return (
-    <section className="timeline-section">
+    <section id="program-structure" className="timeline-section">
       <div className="timeline-band">
         <div className="timeline-inner">
           <p className="timeline-heading">{timeline.heading}</p>

@@ -8,10 +8,9 @@
     "summary": "12 startups. 4 weeks.",
     "ctaButton": "Apply Now"
   },
-
   "objective": {
-    "headline": "The Moat Is No Longer Product",
-    "subtitle": "This is a 4-week execution sprint for East Africa-focused startups that already have traction and want sharper, faster, smarter GTM.",
+    "headline": "Product Is No Longer Moat",
+    "subtitle": "This is a 4-week execution sprint for East Africa-focused startups that already have traction.",
     "velocityIntro": "In an AI-native world, product advantage erodes fast, what compounds now is velocity:",
     "velocityItems": [
       "Speed of shipping",
@@ -21,7 +20,6 @@
       "Discipline in experimentation"
     ]
   },
-
   "lessons": {
     "sectionTitle": "Program Structure (4 Weeks)",
     "weeks": [
@@ -29,42 +27,77 @@
         "week": "Week 1",
         "title": "Positioning and ICP Clarity",
         "subtitle": "Sharpen your customer definition and remove narrative confusion.",
-        "expectations": ["ICP dossier", "Positioning framework", "Updated GTM baseline"],
+        "expectations": [
+          "ICP dossier",
+          "Positioning framework",
+          "Updated GTM baseline"
+        ],
         "defaultOpen": true
       },
       {
         "week": "Week 2",
         "title": "AI-Native Shipping",
         "subtitle": "Build and operate faster using AI tools.",
-        "expectations": ["AI tool stack audit", "Shipping cadence tracker", "Automation workflows"],
+        "expectations": [
+          "AI tool stack audit",
+          "Shipping cadence tracker",
+          "Automation workflows"
+        ],
         "defaultOpen": false
       },
       {
         "week": "Week 3",
         "title": "Storytelling and Signal",
         "subtitle": "Increase authority and narrative clarity.",
-        "expectations": ["Brand narrative doc", "Content calendar", "Authority metrics"],
+        "expectations": [
+          "Brand narrative doc",
+          "Content calendar",
+          "Authority metrics"
+        ],
         "defaultOpen": false
       },
       {
         "week": "Week 4",
         "title": "Distribution and Revenue Systems",
         "subtitle": "Design and launch a measurable GTM experiment.",
-        "expectations": ["GTM experiment design", "Revenue tracking dashboard", "Distribution playbook"],
+        "expectations": [
+          "GTM experiment design",
+          "Revenue tracking dashboard",
+          "Distribution playbook"
+        ],
         "defaultOpen": false
       }
     ]
   },
-
   "partners": {
     "sectionTitle": "Partners",
     "logos": [
-      { "src": "/dochase.png", "alt": "Dochase", "width": 197, "height": 39 },
-      { "src": "/wimbart.png", "alt": "Wimbart", "width": 222, "height": 39 },
-      { "src": "/clarus.png",  "alt": "Clarus",  "width": 170, "height": 39 }
+      {
+        "src": "/dochase.png",
+        "alt": "Dochase",
+        "width": 197,
+        "height": 39
+      },
+      {
+        "src": "/wimbart.png",
+        "alt": "Wimbart",
+        "width": 222,
+        "height": 39
+      },
+      {
+        "src": "/clarus.png",
+        "alt": "Clarus",
+        "width": 170,
+        "height": 39
+      },
+      {
+        "src": "/visolab-logo%201.png",
+        "alt": "Visolab",
+        "width": 39,
+        "height": 39
+      }
     ]
   },
-
   "programDetails": {
     "sectionTitle": "Program Details",
     "items": [
@@ -79,7 +112,7 @@
               "You have real traction (revenue, active users, pilots, meaningful pipeline)",
               "Your product exists and works",
               "You feel your GTM is messy, unclear, or slow",
-              "You are ready to commit 5–7 hours per week",
+              "You are ready to commit 5\u20137 hours per week",
               "You want to launch a real GTM experiment in 30 days"
             ]
           },
@@ -120,7 +153,7 @@
             "label": "Structure:",
             "items": [
               "4 weeks, live cohort format",
-              "5–7 hours per week commitment",
+              "5\u20137 hours per week commitment",
               "Weekly live sessions (mandatory attendance)",
               "Async work between sessions"
             ]
@@ -153,10 +186,10 @@
           {
             "label": "Schedule",
             "items": [
-              "Application opens — March 2026",
-              "Application closes — 7–10 days after opening",
-              "Activation Showcase — Early May",
-              "Cohort Begins — April 2026"
+              "Application opens \u2014 March 2026",
+              "Application closes \u2014 7\u201310 days after opening",
+              "Activation Showcase \u2014 Early May",
+              "Cohort Begins \u2014 April 2026"
             ]
           }
         ],
@@ -164,19 +197,16 @@
       }
     ]
   },
-
   "timeline": {
     "heading": "Cohort Begins",
-    "date": "April 2026"
+    "date": "May 2026"
   },
-
   "cta": {
     "heading": "Apply Now",
     "subheading": "Applications are open for a limited time.",
     "body": "If your GTM feels unclear, slow, or noisy and you're ready to fix it, apply.",
     "ctaButton": "Apply Now"
   },
-
   "faq": {
     "sectionTitle": "FAQ",
     "items": [
@@ -197,7 +227,7 @@
       },
       {
         "question": "Is this intense?",
-        "answer": "It's focused, not exhausting. Expect 4–6 hours per week of structured sprints and reviews.",
+        "answer": "It's focused, not exhausting. Expect 4\u20136 hours per week of structured sprints and reviews.",
         "defaultOpen": false
       },
       {
@@ -217,16 +247,24 @@
       }
     ]
   },
-
   "footer": {
     "logoSrc": "/dark-logo-lg.svg",
     "logoAlt": "Scale Velocity Lab",
     "ctaButton": "Apply Now",
-    "copyright": "© 2026 Scale Velocity Lab. All rights reserved.",
+    "copyright": "\u00a9 2026 Clarus. All rights reserved.",
     "socialLinks": [
-      { "label": "linkedin",   "href": "#" },
-      { "label": "instagram",  "href": "#" },
-      { "label": "x (twitter)", "href": "#" }
+      {
+        "label": "linkedin",
+        "href": "#"
+      },
+      {
+        "label": "instagram",
+        "href": "#"
+      },
+      {
+        "label": "x (twitter)",
+        "href": "#"
+      }
     ]
   }
 }

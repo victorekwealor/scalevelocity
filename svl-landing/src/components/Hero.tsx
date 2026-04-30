@@ -22,8 +22,17 @@ export default function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, ease: [0.4, 0, 0.2, 1] }}
         >
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src={hero.logoSrc} alt="Scale Velocity Labs" className="hero-logo" />
+          {/* Nav row: logo left, links right */}
+          <div className="hero-nav-row">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img src="/Dark-Logo-md.svg" alt="Scale Velocity Labs" className="hero-logo-md" />
+
+            <nav className="hero-nav">
+              <a href="#program-structure" className="hero-nav-link">Program structure</a>
+              <a href="#program-details" className="hero-nav-link">Program details</a>
+              <a href="#faq" className="hero-nav-link">Faq</a>
+            </nav>
+          </div>
 
           <div className="hero-divider" />
 

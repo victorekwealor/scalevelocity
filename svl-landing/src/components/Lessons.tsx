@@ -75,8 +75,7 @@ function WeekRow({
 }
 
 export default function Lessons() {
-  const defaultIndex = WEEKS.findIndex((w) => w.defaultOpen);
-  const [openIndex, setOpenIndex] = useState(defaultIndex);
+  const [openIndex, setOpenIndex] = useState(-1);
 
   return (
     <section className="lessons-section">

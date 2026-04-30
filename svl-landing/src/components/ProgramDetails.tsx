@@ -78,11 +78,10 @@ function ItemRow({
 }
 
 export default function ProgramDetails() {
-  const defaultIndex = ITEMS.findIndex((i) => i.defaultOpen);
-  const [openIndex, setOpenIndex] = useState(defaultIndex);
+  const [openIndex, setOpenIndex] = useState(-1);
 
   return (
-    <section className="program-section">
+    <section id="program-details" className="program-section">
       <div className="program-container">
         <motion.p
           className="program-title"
