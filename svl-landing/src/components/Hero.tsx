@@ -6,9 +6,13 @@ import content from "@/data/content.json";
 
 const { hero } = content;
 
-// Arrow right icon for the Apply Now button — fetched from Figma (replace when expired)
-const imgArrowRight =
-  "https://www.figma.com/api/mcp/asset/e0f9c4b2-e611-4a5f-8aa5-d9a56b1ac214";
+function ArrowRight() {
+  return (
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+      <path d="M5 12H19M19 12L13 6M19 12L13 18" stroke="white" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+    </svg>
+  );
+}
 
 export default function Hero() {
   return (
@@ -60,8 +64,7 @@ export default function Hero() {
             transition={{ type: "spring", stiffness: 400, damping: 20 }}
           >
             <span className="hero-apply-btn-text">{hero.ctaButton}</span>
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={imgArrowRight} alt="" className="hero-apply-icon" />
+            <ArrowRight />
           </motion.button>
         </motion.div>
 
