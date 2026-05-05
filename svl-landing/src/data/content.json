@@ -237,7 +237,7 @@
       },
       {
         "question": "Is this a traditional accelerator?",
-        "answer": "No. There's no equity taken, no cohort house, and no pitch day pressure.",
+        "answer": "No. There's no equity taken, no cohort house.",
         "defaultOpen": false
       },
       {
@@ -255,15 +255,15 @@
     "socialLinks": [
       {
         "label": "linkedin",
-        "href": "#"
+        "href": "http://linkedin.com/company/reclarus"
       },
       {
         "label": "instagram",
-        "href": "#"
+        "href": "https://www.instagram.com/reclarus/"
       },
       {
         "label": "x (twitter)",
-        "href": "#"
+        "href": "https://x.com/reclarus"
       }
     ]
   }
